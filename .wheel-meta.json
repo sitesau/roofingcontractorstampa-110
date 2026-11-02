@@ -1,0 +1,22 @@
+{
+  "wheel_id": 657,
+  "structure": "umbrella",
+  "slug": "roofingcontractorstampa-110",
+  "project": "roof-repair-tampa-common-mistakes-039e6d8701e9c8e862cc3060f4a5d",
+  "parent_t1_ref": "roofingcontractorstampa-154",
+  "node_role": "feeder",
+  "money_target": "roofingcontractorstampa.com",
+  "primary_kw": "roof repair tampa common mistakes",
+  "intended_url": "http://roof-repair-tampa-common-mistakes-039e6d8701e9c8e862cc3060f4a5d.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "708f43b9e5b8d725",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/roof-repair-tampa-timeline-4d152a85c3ef7f41ff0e9fba3d3a7c995cc4/",
+      "anchor": "a guide to roof repair tampa timeline",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
